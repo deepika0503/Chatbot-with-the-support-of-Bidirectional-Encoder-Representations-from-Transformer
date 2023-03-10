@@ -1,0 +1,101 @@
+Machine Model,Machine Type,Country Name,Delivered Date,Delivered Site,Price,Software Version
+C01,Router,korea,28.06.2022,Cisco,6152,SW303
+C01,Smart Switch,e,09.08.2022,Cisco,6731,SW303
+A01,Router,e,09.04.2021,Cisco,4072,SW202
+B01,Smart Switch,e,27.11.2022,Anchor,4906,SW202
+A01,Smart Switch,e,31.03.2022,Cisco,7162,SW101
+A01,Router,e,22.03.2021,Marshal,2274,SW202
+A01,Backend Switch,e,14.01.2022,Anchor,4390,SW101
+B01,Router,e,15.11.2022,Cisco,5931,SW202
+B01,Backend Switch,e,12.09.2021,Marshal,1944,SW101
+B01,Router,e,07.11.2021,Marshal,6472,SW303
+C01,Vision Quadra,e,16.10.2022,Marshal,6307,SW101
+A01,Backend Switch,e,16.03.2021,Anchor,1733,SW101
+B01,Vision Quadra,e,11.06.2021,Anchor,8149,SW202
+A01,Vision Quadra,e,12.10.2021,Anchor,5517,SW101
+C01,Vision Quadra,e,01.03.2023,Anchor,1683,SW202
+C01,Vision Quadra,e,19.06.2021,Cisco,1364,SW303
+B01,Smart Switch,e,28.09.2022,Anchor,2277,SW202
+B01,Smart Switch,e,09.07.2021,Cisco,9285,SW101
+A01,Router,e,20.03.2021,Marshal,8125,SW101
+C01,Smart Switch,e,16.05.2022,Marshal,3080,SW101
+A01,Vision Quadra,e,07.04.2022,Cisco,6721,SW303
+B01,Backend Switch,e,02.12.2022,Anchor,5210,SW101
+B01,Router,e,15.12.2022,Marshal,4696,SW202
+B01,Router,e,14.10.2022,Anchor,7789,SW101
+B01,Vision Quadra,e,17.01.2022,Cisco,3911,SW101
+C01,Router,e,19.06.2021,Marshal,8059,SW303
+A01,Smart Switch,e,09.03.2022,Cisco,9250,SW101
+B01,Smart Switch,e,26.04.2021,Cisco,6090,SW303
+C01,Smart Switch,e,11.12.2022,Anchor,5919,SW303
+B01,Backend Switch,e,11.09.2022,Cisco,7800,SW101
+B01,Smart Switch,e,21.11.2021,Cisco,9879,SW101
+A01,Router,e,17.09.2022,Anchor,7972,SW202
+C01,Router,e,28.06.2021,Anchor,3413,SW202
+C01,Vision Quadra,e,31.05.2022,Anchor,3976,SW303
+C01,Smart Switch,e,09.02.2023,Marshal,7255,SW101
+A01,Backend Switch,e,24.04.2021,Cisco,9732,SW101
+B01,Smart Switch,e,17.06.2022,Anchor,7371,SW101
+A01,Vision Quadra,e,19.02.2022,Anchor,4566,SW303
+A01,Router,e,27.02.2023,Marshal,5812,SW303
+B01,Router,e,12.07.2022,Marshal,3190,SW303
+A01,Router,e,04.12.2021,Marshal,2020,SW202
+A01,Router,e,18.12.2021,Anchor,4922,SW202
+C01,Smart Switch,e,26.10.2022,Cisco,5103,SW202
+B01,Smart Switch,e,10.12.2022,Cisco,2511,SW303
+B01,Router,e,10.04.2021,Anchor,5020,SW101
+B01,Backend Switch,e,20.05.2021,Marshal,7263,SW101
+C01,Backend Switch,e,21.12.2022,Cisco,1094,SW303
+B01,Backend Switch,e,28.08.2021,Cisco,8542,SW303
+C01,Backend Switch,e,19.03.2022,Cisco,4919,SW202
+B01,Router,e,11.08.2021,Cisco,7682,SW202
+B01,Backend Switch,e,27.08.2022,Cisco,9870,SW202
+C01,Smart Switch,e,16.11.2022,Cisco,8485,SW101
+B01,Smart Switch,e,04.09.2021,Cisco,5231,SW303
+C01,Backend Switch,e,08.11.2021,Marshal,5102,SW202
+A01,Vision Quadra,e,02.01.2022,Anchor,8890,SW303
+B01,Smart Switch,e,21.10.2021,Marshal,7772,SW202
+C01,Router,e,01.08.2021,Anchor,9108,SW202
+A01,Vision Quadra,e,04.06.2021,Marshal,2158,SW101
+A01,Vision Quadra,e,20.06.2022,Cisco,7178,SW202
+A01,Backend Switch,e,31.12.2022,Anchor,7683,SW101
+C01,Vision Quadra,e,24.06.2022,Anchor,4626,SW101
+B01,Vision Quadra,e,08.10.2021,Marshal,7015,SW101
+B01,Router,e,29.10.2022,Anchor,8002,SW202
+B01,Router,e,22.01.2022,Marshal,8978,SW202
+A01,Vision Quadra,e,25.09.2021,Marshal,2398,SW202
+B01,Vision Quadra,e,02.01.2023,Anchor,3681,SW303
+A01,Backend Switch,e,22.05.2021,Anchor,2594,SW202
+C01,Router,e,24.11.2021,Cisco,1839,SW303
+C01,Backend Switch,e,28.09.2021,Marshal,5234,SW202
+B01,Backend Switch,e,29.08.2022,Marshal,8846,SW101
+A01,Vision Quadra,e,19.10.2022,Marshal,1626,SW202
+C01,Vision Quadra,e,31.10.2021,Cisco,6595,SW101
+B01,Backend Switch,e,08.12.2022,Marshal,4570,SW101
+A01,Smart Switch,e,23.08.2022,Marshal,5731,SW202
+C01,Router,e,29.01.2022,Marshal,8166,SW303
+C01,Backend Switch,e,31.05.2021,Cisco,8166,SW101
+C01,Vision Quadra,e,28.10.2021,Marshal,4133,SW101
+C01,Vision Quadra,e,09.09.2022,Marshal,1245,SW101
+A01,Smart Switch,e,02.01.2022,Cisco,1459,SW101
+B01,Smart Switch,e,02.12.2021,Anchor,7544,SW303
+B01,Router,e,23.04.2021,Cisco,3131,SW303
+A01,Smart Switch,e,13.06.2022,Marshal,8287,SW202
+B01,Router,e,12.06.2021,Cisco,9272,SW202
+A01,Smart Switch,e,29.03.2022,Cisco,6020,SW303
+B01,Router,e,03.09.2021,Cisco,3246,SW303
+B01,Router,e,22.09.2022,Cisco,5214,SW303
+A01,Smart Switch,e,11.04.2022,Marshal,9028,SW101
+A01,Smart Switch,e,12.07.2021,Cisco,8749,SW303
+A01,Smart Switch,e,27.10.2021,Anchor,4618,SW303
+A01,Backend Switch,e,23.11.2021,Cisco,5428,SW202
+C01,Smart Switch,e,23.01.2022,Cisco,1757,SW303
+C01,Vision Quadra,e,01.06.2022,Anchor,5967,SW303
+C01,Backend Switch,e,30.11.2021,Anchor,9331,SW303
+B01,Smart Switch,e,21.01.2023,Anchor,6556,SW202
+C01,Vision Quadra,e,05.06.2022,Cisco,7622,SW202
+B01,Vision Quadra,e,18.06.2022,Marshal,2896,SW303
+A01,Smart Switch,e,26.08.2022,Cisco,5491,SW101
+B01,Backend Switch,e,25.02.2022,Anchor,7000,SW101
+C01,Backend Switch,e,29.06.2022,Cisco,5759,SW202
+C01,Vision Quadra,e,04.08.2021,Anchor,3327,SW101
